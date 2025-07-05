@@ -1,0 +1,13 @@
+{
+  "network": "localhost",
+  "chainId": "1337",
+  "contracts": {
+    "vaultCoin": "0x801DBE5cC4A9a63BD833AC1267caD6b825eDAF4D",
+    "fiatGateway": "0x2bFf842E76552c441Bf4a4bd70C9ff39e74711cE",
+    "nftVault": "0xCEC560639eAe2F6C3421990c46e70D2fE7AC3b81",
+    "marketplace": "0x2cfA08A3A2f6cEa1070c2e84e3B3df55109672c7"
+  },
+  "deployer": "0x6dB9E59f3F51a0E0F71713Bc186FEb8ee910E28C",
+  "deployedAt": "2025-07-04T13:33:15.133Z",
+  "blockNumber": 10
+}

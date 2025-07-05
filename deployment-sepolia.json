@@ -1,0 +1,13 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "contracts": {
+    "vaultCoin": "0x5F2F2fD40D9D01b2b5cEFa887bF39762f9D0bA6e",
+    "fiatGateway": "0x3f4dAC2BC003Bea5Ea377bf77D649F801Ac2D30B",
+    "nftVault": "0xCbD8e2E6c3e69e4636Cd683c9370a36103ce8217",
+    "marketplace": "0x59812B1738b52381d2B738e0afD37F50D146e812"
+  },
+  "deployer": "0x99B1512026512aA5B586b727f67BA7d006162AF6",
+  "deployedAt": "2025-07-04T18:20:06.251Z",
+  "blockNumber": 8692196
+}

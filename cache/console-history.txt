@@ -1,0 +1,166 @@
+await NFTVault.totalSupply()
+const NFTVault = await ethers.getContractAt("NFTVault", "0xCEC560639eAe2F6C3421990c46e70D2fE7AC3b81")
+await NFTVault.totalSupply()
+const NFTVault = await ethers.getContractAt("NFTVault", "0xCEC560639eAe2F6C3421990c46e70D2fE7AC3b81")
+  await NFTVault.t
+  const NFTVault = await ethers.getContractAt("NFTVault", "NEW_NFTVAULT_ADDRESS")
+npx hardhat console --network localhost
+await VaultCoin.symbol()
+await VaultCoin.name()
+await VaultCoin.paused()
+clear
+  const VaultCoin = await ethers.getContractAt("VaultCoin", "0x00af4b82Df03283446d36121af9da252aB0cc6CF")
+clear
+>clear
+}
+  shortMessage: 'could not decode result data'
+  info: { method: 'paused', signature: 'paused()' },
+  value: '0x',
+  code: 'BAD_DATA',
+    at REPL7:1:35 {
+    at Proxy.paused (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:351:41)
+ads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:303:24)
+    at staticCall (C:\Users\dhruv\Downlo
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at Interface.decodeFunctionResult (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\abi\interface.ts    at staticCallResult (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:346:35)
+    at assert (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\utils\errors.ts:719:25)
+    at makeError (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\utils\errors.ts:698:21)
+Error: could not decode result data (value="0x", info={ "method": "paused", "signature": "paused()" }, code=BAD_DATA, version=6.15.0)
+Uncaught:
+>   await VaultCoin.paused()
+Uncaught SyntaxError: Identifier 'VaultCoin' has already been declared
+const VaultCoin = await ethers.getContractAt("VaultCoin", "0x00af4b82Df03283446d36121af9da252aB0cc6CF")
+clear
+>clear
+}
+  shortMessage: 'could not decode result data'
+  info: { method: 'paused', signature: 'paused()' },
+  value: '0x',
+  code: 'BAD_DATA',
+    at REPL7:1:35 {
+(C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:351:41)
+    at staticCall (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts    at Proxy.paused 
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at staticCallResult (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:346:35)
+    at Interface.decodeFuncin (1)\node_modules\ethers\src.ts\abi\interface.ts:916:15)
+    at assert (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\utils\errors.ts:719:25)
+    at makeError (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\utils\errors.ts:698:21)
+Error: could not decode result data ": "paused()" }, code=BAD_DATA, version=6.15.0)
+Uncaught:
+d()
+Uncaught SyntaxError: Identifier 'VaultCoin' h>   await VaultCoin.pause
+const VaultCoin = await ethers.getContractAt("VaultCoin", "0x00af4b82Df03283446d36121af9da252aB0cc6CF")
+>.clear
+}
+  shortMessage: 'could not decode result data'
+  info: { method: 'paused', signature: 'paused()' },
+  value: '0x',
+  code: 'BAD_DATA',
+    at REPL7:1:35 {
+    at Proxy.paused (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:351:41)
+    at staticCall (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:303:24)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+ownloads\nft-vault-chain (1)\node_modules\ethers\src.ts\contract\contract.ts:346:35)
+    at Interface.decodeFunc    at staticCallResult (C:\Users\dhruv\D
+    at assert (C:\Users\dhruv\Downloads\nft-vault-chain (1)\node_modules\ethers\src.ts\utils\errors.ts:719:25)
+-chain (1)\node_modules\ethers\src.ts\utils\errors.ts:698:21)
+Error: could not decode result data     at makeError (C:\Users\dhruv\Downloads\nft-vault
+Uncaught:
+d()
+Uncaught SyntaxError: Identifier 'VaultCoin' h>   await VaultCoin.pause
+const VaultCoin = await ethers.getContractAt("VaultCoin", "0x00af4b82Df03283446d36121af9da252aB0cc6CF")
+  await VaultCoin.paused()
+  const VaultCoin = await ethers.getContractAt("VaultCoin", "0x00af4b82Df03283446d36121af9da252aB0cc6CF")
+await NFTVault.vaultCoin()
+const NFTVault = await ethers.getContractAt("NFTVault", "0xaE359e5457263559eb887aFFA2B4eAe4D6Ac28f1")
+  await NFTVault.vaultCoin()
+await VaultCoin.balanceOf("0xf8691B99e42210741bb7FE57e6350C399C1a533e")
+const VaultCoin = await ethers.getContractAt("VaultCoin", "0xf8691B99e42210741bb7FE57e6350C399C1a533e")
+await NFTVault.owner()
+await NFTVault.paused()
+   const NFTVault = await ethers.getContractAt("NFTVault", "0xaE359e5457263559eb887aFFA2B4eAe4D6Ac28f1")
+   // 1. Replace with your actual contract address
+await NFTVault.unpause()
+const NFTVault = await ethers.getContractAt("NFTVault", "PASTE_CONTRACT_ADDRESS_HERE")               await NFTVault.paused()                                                                                await NFTVault.owner()
+await NFTVault
+await NFTVault.paused()      // Should return false
+const NFTVault = await ethers.getContractAt("NFTVault", "PASTE_CONTRACT_ADDRESS_HERE")
+const balance = await ethers.provider.getBalance("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266");console.log("Balance:", ethers.formatEther(balance), "ETH");
+const balance = await ethers.provider.getBalance("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266");
+console.log("Sent 100 ETH");
+});
+  value: ethers.parseEther("100")
+  to: "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+await deployer.sendTransaction({
+const [deployer] = await ethers.getSigners();
+.clear
+const [deployer] = await ethers.getSigners();
+console.log("Sent 100 ETH");
+});
+  value: ethers.parseEther("100")
+  to: "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+await deployer.sendTransaction({
+const [deployer] = await ethers.getSigners();
+console.log("Sent 100 ETH");
+});
+  value: ethers.parseEther("100")
+awai  to: "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+const [deployer] = await ethers.getSigners();
+.clear
+console.log("Sent 100 ETH");
+  value: ethers.par});
+  to: "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+await deployer.sendTransaction({
+const [deployer] = await ethers.getSigners();
+const [deployer] = await ethers.getSigners();await deployer.sendTransaction({  to: "0xf39Fd6e51aad88F6F4ce6aB8827279cffF
+const [deployer] = await ethers.getSigners();
+const balance = await ethers.provider.getBalance("0xa0Ee7A142d267C1f36714E4a8F75612F20a79720");console.log("Balance:", ethers.formatEther(balance), "ETH");
+cons
+const balance = await ethers.provider.getBalance("0xa0Ee7A142d267C1f36714E4a8F75612F20a79720");
+await tx.wait();
+});
+  value: ethers.parseEther("100")
+  to: "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720",
+const tx = await deployer.sendTransaction({
+const signers = await ethers.getSigners();const deployer = signers[0];
+const signers = await ethers.getSigners();
+.clear
+const [deployer] = await ethers.getSigners();
+.clear
+clear
+.clear
+const recipient = "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720";
+const [deployer] = await ethers.getSigners();
+// Get the first account (which has ETH)
+console.log("Balance:", ethers.formatEther(balance), "ETH");
+const balance = await ethers.provider.getBalance(recipient);
+// Check the balance
+// Waiawait tx.wait();
+});
+  value: ethers.parseEther("100")
+  to: recipient,
+const tx = await deployer.sendTransaction({
+// Send 100 ETH
+const recipient = "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720";
+Mask address
+// Your Meta
+const [de
+// Get the first account (which has ETH)
+console.log("Balance:", ethers.formatEther(balance), "ETH");
+const balance = await ethers.provider.getBalance(recipient);
+// Check the balance
+await tx.wait();
+// Wait for the transaction to be mined
+});
+  value: ethers.parseEther("100")
+const   to: recipient,
+// Send 100 ETH
+36714E4a8F75612F20a79720";
+const recipient = "0xa0Ee7A142d267C1f
+// Your MetaMask address
+const [de
+// Get the first account (which has ETH)
+});const [deployer] = await ethers.getSigners(); await deployer.sendTransaction({ to: 0xa0Ee7A142d267C1f36714E4a8F75612F20a79720, value: ethers.parseEther("100") });
+  value: ethers.parseEther("100")
+awai  to: "YOUR_METAMASK_ADDRESS",
+const [deployer] = await ethers.getSigners();thers.getSigners();
